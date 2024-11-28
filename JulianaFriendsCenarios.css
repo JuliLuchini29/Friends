@@ -1,0 +1,111 @@
+body {
+    background: #0056a7;
+    font-family: Georgia, "Lucida Grande", "Lucida Sans Unicode", Verdana, sans-serif;
+    line-height: 1.5;
+    color:rgb(0, 0, 0);
+    }
+    main{
+        background-color: #000000; 
+    }
+
+    header{
+        background-color: #2678f2;
+        border: 2px solid #000000;
+        
+    }
+    
+    ul{
+    border: 2px solid #000000;
+    color: aliceblue;
+    background-color: #2678f2;
+    border: 100% solid #2678f2;
+    
+    }
+    /*
+    h1{
+        font-family: Georgia, "Lucida Grande", "Lucida Sans Unicode", Verdana, sans-serif;
+        line-height: 1.5;
+        color:rgb(0, 0, 0);
+        border: 100% solid #2678f2;
+        width: 50%;
+        margin-top: 1%;
+        border: 9px solid #2678f2;
+        float: left;
+        text-align: left;
+    }
+    
+    header{
+        background-color: #2678f2;
+        width: 100%;
+        border: 2px solid #000000;
+        overflow: auto;
+        margin-bottom: 1%;
+        margin-top: 1%;
+    }
+    nav{
+        width: 100%;
+        border: 2px solid #000000;
+        overflow: auto;
+        color: aliceblue;
+    }
+    nav em{
+        background-color: #2678f2;
+        float: left;
+        list-style-type: none;
+        width: 25%;
+        border: 100% solid #2678f2;
+        margin-top: 0%;
+    
+    }
+    a{
+        color: #010a5c;
+    }
+    article {
+        border-color: #000000 #000000 #000000 #000000;
+        background-color: #000000;
+        border: 10% solid #000000;
+        margin-bottom: 10%;
+        padding: 3%;
+        margin-top: 10%;
+        overflow: auto;
+        margin: 4%;
+    }
+    article h2 img{
+        width: 30%;
+        margin-top: 1%;
+    }
+
+    .login{
+        float: right;
+        width: 50px;
+        padding-right: 1%;
+        padding-top: 1%;
+    }
+
+    .login img{
+        width: 100%;
+     }
+
+     main{
+        overflow: auto;
+     }
+    article img {
+        padding: 2%;
+        float: left;
+        margin-top: 1%;
+        overflow: auto;
+        width: 20%;
+        display: inline;
+        aspect-ratio: 3/3;
+        object-fit: contain;
+    }
+    article p{
+        padding-right: 3%;
+        margin-top: 0%;
+        margin-bottom: 1%;
+        position: static;
+        z-index: auto;
+        text-align: left;
+        right: 60%;
+    }
+    /*

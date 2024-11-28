@@ -1,0 +1,29 @@
+
+body {
+    background-image: linear-gradient(to right, #b445e7, #43066b);
+    font-family: Georgia, "Lucida Grande", "Lucida Sans Unicode", Verdana, sans-serif;
+    line-height: 1.5;
+    color:rgb(255, 255, 255);
+    margin-top: 1%;
+    }
+    /*
+    legend{
+        font-family: Georgia, "Lucida Grande", "Lucida Sans Unicode", Verdana, sans-serif;
+        line-height: 2.0;
+        width: 30%;
+        margin-top: 1%;
+        float: left;
+        text-align: left;
+        font-size: large;
+    }
+    input{
+        text-shadow: #000000;
+        background-color: #c199e2;
+    }
+    main{
+        position:absolute;
+        top: 60%;
+        left: 50%;
+        transform: translate(-50%,-50%);
+    }
+    /*
